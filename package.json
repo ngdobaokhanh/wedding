@@ -1,0 +1,16 @@
+{
+  "name": "wedding-guest-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "He thong quan ly khach moi dam cuoi - backend Node/Express, luu du lieu that, ho tro anh co dau chu re",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^2.0.0"
+  }
+}
